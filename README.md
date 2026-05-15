@@ -487,9 +487,7 @@ scipy==1.11.0
 
 ---
 
-## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
