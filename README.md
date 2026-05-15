@@ -36,7 +36,7 @@ with 13 financial metrics and benchmark ratings.
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ---
 
